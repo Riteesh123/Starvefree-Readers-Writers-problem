@@ -7,4 +7,4 @@ Pseudocode for Starve free Readers-Writers problem along with needed documentati
 
 -Starve-free readers–writers problem 
 
--S Riteesh Reddy 19114084 O4 CSE
+**S Riteesh Reddy 19114084 O4 CSE**
