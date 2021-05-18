@@ -6,3 +6,5 @@ Pseudocode for Starve free Readers-Writers problem along with needed documentati
 -Second readers–writers problem
 
 -Starve-free readers–writers problem 
+
+-S Riteesh Reddy 19114084 O4 CSE
